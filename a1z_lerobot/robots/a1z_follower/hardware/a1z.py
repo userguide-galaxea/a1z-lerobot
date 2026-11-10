@@ -1,4 +1,4 @@
-"""Single-arm + gripper control wrapper over the GALAXEA-A1Z SDK (ArmRobot)."""
+"""Single-arm + gripper control wrapper over the galaxea_a1z SDK (ArmRobot)."""
 import numpy as np
 
 from a1z.robots.gripper import GRIPPER_CLOSE_RAD as _GRIPPER_CLOSE_RAD, GRIPPER_OPEN_RAD as _GRIPPER_OPEN_RAD

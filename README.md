@@ -16,13 +16,13 @@
 
 ## 安装
 
-仓库内含 `lerobot` 与 `GALAXEA-A1Z` 两个子模块，连同本项目各以可编辑模式安装：
+仓库内含 `lerobot` 与 `galaxea_a1z` 两个子模块，连同本项目各以可编辑模式安装：
 
 ```bash
 git clone --recursive https://github.com/userguide-galaxea/a1z-lerobot.git
 pip install -e .
 pip install -e lerobot
-pip install -e GALAXEA-A1Z
+pip install -e galaxea_a1z
 ```
 
 ## 项目结构
