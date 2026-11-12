@@ -19,8 +19,8 @@
 仓库内含 `lerobot` 子模块；`galaxea_a1z` 是独立的 SDK 仓库，需单独 clone 到仓库根目录（该目录已加入 `.gitignore`）。三者都以可编辑模式安装：
 
 ```bash
-git clone --recursive https://github.com/userguide-galaxea/a1z-lerobot.git
-cd a1z-lerobot
+git clone --recursive https://github.com/userguide-galaxea/a1z_lerobot.git
+cd a1z_lerobot
 git clone --branch main https://github.com/userguide-galaxea/galaxea_a1z.git galaxea_a1z
 pip install -e .
 pip install -e lerobot
